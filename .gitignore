@@ -1,0 +1,11 @@
+# Mac system files
+.DS_Store
+
+# PyCharm / IDE files
+.idea/
+*.iml
+
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
